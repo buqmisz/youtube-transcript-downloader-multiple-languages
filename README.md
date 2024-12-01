@@ -1,7 +1,9 @@
 YouTube Transcript Downloader Multiple Languages
+
 A powerful and user-friendly web application for downloading YouTube video transcripts in multiple formats and languages. This app combines a sleek Next.js frontend with a robust Flask backend API, ensuring smooth performance and seamless functionality.
 
-Features
+Features:
+
 Input any YouTube video URL to fetch its transcript.
 Choose from multiple output formats: JSON, Plain Text, or SRT (subtitle file).
 Supports multiple languages, ensuring accessibility for a global audience.
@@ -40,13 +42,6 @@ pip for Python package management
 Installation
 Clone the Repository
 
-bash
-Copy code
-git clone https://github.com/your-username/youtube-transcript-downloader.git  
-cd youtube-transcript-downloader  
-Install Frontend Dependencies
-
-bash
 Copy code
 cd frontend  
 npm install  
